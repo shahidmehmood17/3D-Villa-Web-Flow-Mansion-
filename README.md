@@ -1,0 +1,1 @@
+Developed an interactive, 3D-rendered virtual tour of a modern villa to enhance digital real estate exploration. The application bridges modern web development and 3D graphics to provide users with a seamless, high-performance architectural visualisation directly in their browser.
